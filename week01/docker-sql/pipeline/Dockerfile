@@ -8,6 +8,7 @@ ENV PATH="/code/.venv/bin:$PATH"
 
 COPY "pyproject.toml" "uv.lock" ".python-version" ./
 RUN uv sync --locked
-COPY pipeline.py .
 
-ENTRYPOINT [ "python", "pipeline.py" ]
+COPY ingest_data.py .
+
+ENTRYPOINT [ "python", "ingest_data.py" ]
