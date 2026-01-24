@@ -16,11 +16,10 @@ docker run -it --entrypoint bash python:3.13
 pip --version
 ```
 
-### Answer
-`pip 25.3`
+### Answer: `pip 25.3`
 
 ### Screenshot
-![Question 1 Screenshot](week01/docker-sql/screenshots/1.png)
+![Question 1 Screenshot](docker-sql/screenshots/1.png)
 
 ---
 
