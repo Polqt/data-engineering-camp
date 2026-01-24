@@ -20,7 +20,7 @@ pip --version
 `pip 25.3`
 
 ### Screenshot
-![Question 1 Screenshot](week01/docker-sql//screenshots/1.png)
+![Question 1 Screenshot](week01/docker-sql/screenshots/1.png)
 
 ---
 
