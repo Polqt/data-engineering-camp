@@ -19,7 +19,7 @@ pip --version
 ### Answer: `pip 25.3`
 
 ### Screenshot
-![Question 1 Screenshot](docker-sql/screenshots/1.png)
+![Question 1 Screenshot](screenshots/1.png)
 
 ---
 
